@@ -3,4 +3,5 @@ This commit is from the Bash
 Line ending test
 This is the new line
 I am from Bash
+I want to craete the confilct from Bash
 I want to create the cnflict from UI
